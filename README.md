@@ -46,6 +46,6 @@ The areas on the map with a high density of vacant buildings overlays strongly o
 
 ## Final Project Link
 
-Here you are linking from the README.md to the index.html.
 
-Please view the [final map online](www.github...)
+
+Please view the [final map online](https://1sbergman.github.io/Milwaukee_Vacant/index.html)
