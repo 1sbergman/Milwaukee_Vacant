@@ -28,7 +28,7 @@ Vacant Buildings and Race in Census Tracts in Milwaukee, Wisconsin
 
 ### Purpose
 
-[Studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3665973/https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3665973/) have shown a clear link between vacant land/vacant buildings and a number of negative effects on the surrounding community, including crime, loss of tax revenue for schools, and rats. I wanted to study the racial component of those effects on the City of Milwaukee, Wisconsin. By demonstrating a link between communities of color and vacant building sites in the city, we can show the social injustices created by urban decay and the need for redevelopment to solve these problems.
+[Studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3665973/) have shown a clear link between vacant land/vacant buildings and a number of negative effects on the surrounding community, including crime, loss of tax revenue for schools, and rats. I wanted to study the racial component of those effects on the City of Milwaukee, Wisconsin. By demonstrating a link between communities of color and vacant building sites in the city, we can show the social injustices created by urban decay and the need for redevelopment to solve these problems.
 
 ### Mapmaking Process
 
